@@ -1,0 +1,739 @@
+CustomerID,Region,ValueTier,FrequencyTier,Segment,TotalSales,TotalOrders,AvgOrderValue
+AA-10315,West,Platinum,Occasional,Other,4433.03,2,2216.515
+AA-10375,West,Silver,Frequent,Other,407.12,5,81.424
+AA-10480,East,Bronze,Occasional,Hibernating,27.46,1,27.46
+AA-10645,West,Platinum,Frequent,Champions,2008.7,4,502.175
+AB-10015,West,Gold,Occasional,Other,873.53,2,436.765
+AB-10060,East,Platinum,Frequent,Champions,7354.21,4,1838.5525
+AB-10105,Central,Gold,Frequent,Potential Loyalists,1299.15,4,324.7875
+AB-10150,East,Gold,Regular,Loyal Customers,812.46,3,270.82
+AB-10165,West,Bronze,Occasional,New Customers,86.48,2,43.24
+AB-10255,East,Bronze,Regular,Other,121.58,3,40.526666666666664
+AB-10600,West,Gold,Occasional,New Customers,1475.05,1,1475.05
+AC-10420,West,Gold,Occasional,Promising,868.22,2,434.11
+AC-10450,Central,Platinum,Occasional,New Customers,1864.19,2,932.095
+AC-10615,East,Platinum,Occasional,New Customers,2255.87,1,2255.87
+AD-10180,East,Gold,Occasional,New Customers,932.07,2,466.035
+AF-10870,Central,Bronze,Occasional,Hibernating,37.16,2,18.58
+AF-10885,East,Silver,Regular,At Risk,489.9,3,163.29999999999998
+AG-10300,West,Bronze,Occasional,New Customers,87.9,2,43.95
+AG-10330,West,Silver,Occasional,New Customers,357.62,2,178.81
+AG-10390,South,Bronze,Regular,Other,38.86,3,12.953333333333333
+AG-10495,South,Platinum,Regular,At Risk,1672.01,3,557.3366666666667
+AG-10525,South,Gold,Frequent,At Risk Champions,1455.04,4,363.76
+AG-10675,Central,Platinum,Frequent,Champions,2943.48,4,735.87
+AG-10765,South,Bronze,Occasional,Hibernating,123.84,2,61.92
+AG-10900,West,Platinum,Frequent,Champions,2246.51,4,561.6275
+AH-10120,West,Silver,Occasional,Promising,609.5,2,304.75
+AH-10195,Central,Bronze,Occasional,New Customers,148.97,2,74.485
+AH-10210,West,Platinum,Frequent,Champions,2634.39,4,658.5975
+AH-10465,Central,Platinum,Regular,Potential Loyalists,1843.88,3,614.6266666666667
+AH-10585,Central,Silver,Occasional,New Customers,255.22,2,127.61
+AH-10690,East,Platinum,Frequent,At Risk Champions,2124.31,6,354.0516666666667
+AI-10855,East,Platinum,Frequent,Champions,1745.6,5,349.12
+AJ-10780,South,Bronze,Occasional,Hibernating,54.83,1,54.83
+AJ-10795,South,Gold,Occasional,Other,1414.96,2,707.48
+AJ-10945,South,Gold,Regular,Loyal Customers,803.27,3,267.75666666666666
+AM-10360,West,Bronze,Occasional,New Customers,194.25,2,97.125
+AM-10705,Central,Silver,Occasional,Promising,383.84,1,383.84
+AP-10720,East,Gold,Regular,At Risk,1368.07,3,456.0233333333333
+AP-10915,South,Gold,Frequent,Champions,1494.01,4,373.5025
+AR-10345,East,Silver,Regular,Other,279.97,3,93.32333333333334
+AR-10405,West,Silver,Occasional,Hibernating,265.78,1,265.78
+AR-10510,East,Bronze,Occasional,Hibernating,26.14,1,26.14
+AR-10540,West,Gold,Occasional,Lost,692.73,1,692.73
+AR-10825,West,Gold,Frequent,Champions,1385.01,4,346.2525
+AS-10045,South,Platinum,Frequent,Champions,2475.85,4,618.9625
+AS-10090,South,Gold,Frequent,Champions,1286.97,5,257.394
+AS-10225,East,Silver,Regular,Other,261.88,3,87.29333333333334
+AS-10240,West,Bronze,Occasional,Hibernating,77.91,2,38.955
+AS-10285,West,Platinum,Frequent,Champions,3029.12,4,757.28
+AS-10630,East,Silver,Regular,At Risk,410.98,3,136.99333333333334
+AT-10435,West,Gold,Regular,Loyal Customers,1111.05,3,370.34999999999997
+AT-10735,Central,Silver,Frequent,Other,304.63,4,76.1575
+AW-10840,East,Silver,Occasional,New Customers,606.23,2,303.115
+AW-10930,East,Silver,Occasional,Other,551.54,2,275.77
+AY-10555,West,Bronze,Occasional,Hibernating,199.99,1,199.99
+AZ-10750,East,Gold,Occasional,Other,955.6,2,477.8
+BB-10990,West,Silver,Regular,Other,453.26,3,151.08666666666667
+BB-11545,Central,Platinum,Frequent,Champions,4708.91,5,941.7819999999999
+BC-11125,West,Gold,Frequent,Potential Loyalists,1496.62,4,374.155
+BD-11320,East,Silver,Regular,Other,250.33,3,83.44333333333334
+BD-11500,Central,Silver,Occasional,Lost,468.9,1,468.9
+BD-11605,South,Silver,Occasional,Other,656.63,2,328.315
+BD-11620,West,Silver,Occasional,Hibernating,309.41,2,154.705
+BD-11635,East,Silver,Occasional,Other,511.65,2,255.825
+BD-11725,South,Silver,Occasional,Promising,541.62,2,270.81
+BD-11770,Central,Silver,Frequent,At Risk,653.7,5,130.74
+BE-11335,Central,Platinum,Occasional,New Customers,3480.96,1,3480.96
+BE-11410,East,Bronze,Occasional,Hibernating,30.35,1,30.35
+BE-11455,Central,Gold,Frequent,At Risk,722.13,4,180.5325
+BF-10975,South,Bronze,Regular,At Risk,226.17,3,75.39
+BF-11005,West,Silver,Occasional,Hibernating,252.15,1,252.15
+BF-11020,Central,Platinum,Frequent,Champions,1755.83,4,438.9575
+BF-11080,East,Silver,Occasional,New Customers,258.28,2,129.14
+BF-11170,West,Silver,Regular,Potential Loyalists,530.64,3,176.88
+BF-11215,Central,Gold,Occasional,Other,749.46,2,374.73
+BF-11275,South,Silver,Occasional,New Customers,403.29,2,201.645
+BG-11035,South,Bronze,Frequent,Other,230.44,4,57.61
+BG-11695,East,Bronze,Occasional,Hibernating,126.08,2,63.04
+BG-11740,Central,Silver,Occasional,New Customers,497.15,2,248.575
+BH-11710,West,Platinum,Frequent,Champions,6011.23,5,1202.2459999999999
+BK-11260,East,Silver,Regular,At Risk,485.13,3,161.71
+BM-11140,Central,Platinum,Regular,At Risk,11432.84,3,3810.9466666666667
+BM-11575,East,Silver,Occasional,Hibernating,405.92,1,405.92
+BM-11650,East,Platinum,Regular,Loyal Customers,3774.97,3,1258.3233333333333
+BM-11785,East,Silver,Regular,At Risk,628.85,3,209.61666666666667
+BN-11470,South,Bronze,Occasional,New Customers,203.1,2,101.55
+BN-11515,East,Bronze,Occasional,Promising,114.9,1,114.9
+BO-11350,East,Platinum,Regular,Potential Loyalists,2590.76,3,863.5866666666667
+BO-11425,East,Bronze,Occasional,Hibernating,6.08,1,6.08
+BP-11050,East,Bronze,Occasional,New Customers,65.0,2,32.5
+BP-11095,Central,Bronze,Regular,At Risk,137.33,3,45.77666666666667
+BP-11155,South,Gold,Regular,Loyal Customers,1177.91,3,392.6366666666667
+BP-11185,West,Gold,Frequent,Champions,1090.38,4,272.595
+BP-11290,Central,Gold,Regular,At Risk,1184.27,3,394.75666666666666
+BS-11365,West,Bronze,Occasional,Hibernating,69.86,1,69.86
+BS-11380,West,Platinum,Regular,Loyal Customers,2748.92,3,916.3066666666667
+BS-11590,West,Platinum,Occasional,Other,1627.36,2,813.68
+BS-11755,West,Silver,Regular,Potential Loyalists,573.79,3,191.26333333333332
+BS-11800,East,Gold,Occasional,Promising,760.8,1,760.8
+BT-11305,West,Bronze,Occasional,Hibernating,211.82,2,105.91
+BT-11395,West,Silver,Occasional,Promising,399.67,1,399.67
+BT-11440,East,Silver,Occasional,Hibernating,440.05,1,440.05
+BT-11485,East,Bronze,Occasional,Hibernating,30.34,1,30.34
+BT-11680,South,Platinum,Frequent,Champions,2048.33,4,512.0825
+BW-11065,South,Silver,Occasional,Promising,370.9,2,185.45
+BW-11110,Central,Platinum,Regular,At Risk,3174.51,3,1058.17
+BW-11200,West,Gold,Regular,Potential Loyalists,920.35,3,306.78333333333336
+CA-11965,West,Gold,Occasional,Lost,892.22,1,892.22
+CA-12055,West,Gold,Occasional,Other,1106.04,2,553.02
+CA-12265,South,Gold,Frequent,Loyal Customers,912.04,4,228.01
+CA-12310,East,Silver,Occasional,New Customers,471.42,2,235.71
+CA-12775,South,Gold,Frequent,Potential Loyalists,982.56,4,245.64
+CB-12025,East,Gold,Frequent,Loyal Customers,807.66,4,201.915
+CB-12415,Central,Silver,Frequent,Other,297.46,4,74.365
+CB-12535,East,Gold,Frequent,Potential Loyalists,1107.34,5,221.468
+CC-12100,East,Bronze,Occasional,Hibernating,85.21,1,85.21
+CC-12145,West,Bronze,Regular,At Risk,109.6,3,36.53333333333333
+CC-12220,Central,Platinum,Frequent,Champions,2528.23,8,316.02875
+CC-12370,West,Platinum,Occasional,New Customers,3138.12,2,1569.06
+CC-12430,West,Gold,Frequent,Loyal Customers,820.18,4,205.045
+CC-12475,East,Gold,Frequent,Champions,1390.41,6,231.735
+CC-12550,West,Bronze,Occasional,New Customers,65.86,2,32.93
+CC-12610,South,Silver,Occasional,Hibernating,368.39,2,184.195
+CC-12670,East,Silver,Regular,Other,416.27,3,138.75666666666666
+CC-12685,South,Silver,Occasional,Hibernating,364.07,1,364.07
+CD-11980,East,Silver,Occasional,New Customers,318.96,1,318.96
+CD-12280,East,Gold,Occasional,New Customers,796.04,1,796.04
+CD-12790,West,Bronze,Occasional,Hibernating,12.35,1,12.35
+CG-12040,South,Bronze,Regular,Other,97.56,3,32.52
+CG-12520,South,Gold,Occasional,Lost,993.9,1,993.9
+CH-12070,South,Gold,Occasional,Lost,1127.98,1,1127.98
+CJ-12010,East,Platinum,Frequent,Potential Loyalists,9166.28,4,2291.57
+CK-12205,East,Silver,Frequent,Potential Loyalists,487.86,5,97.572
+CK-12325,West,Silver,Regular,Other,356.55,3,118.85000000000001
+CK-12595,East,Gold,Frequent,At Risk Champions,1409.64,4,352.41
+CK-12760,East,Gold,Frequent,Loyal Customers,932.82,5,186.56400000000002
+CL-11890,East,Bronze,Occasional,Promising,56.77,2,28.385
+CL-12565,Central,Platinum,Frequent,At Risk Champions,3232.85,6,538.8083333333333
+CM-11815,West,Bronze,Occasional,Promising,111.96,1,111.96
+CM-12115,West,Silver,Occasional,New Customers,386.62,1,386.62
+CM-12160,East,Bronze,Occasional,New Customers,5.35,1,5.35
+CM-12190,East,Bronze,Occasional,Promising,194.72,2,97.36
+CM-12235,Central,Platinum,Regular,At Risk,2238.96,3,746.32
+CM-12385,West,Platinum,Occasional,Lost,2031.39,1,2031.39
+CM-12445,West,Bronze,Occasional,Hibernating,30.46,1,30.46
+CM-12655,West,Platinum,Frequent,Champions,3595.61,4,898.9025
+CM-12715,Central,Platinum,Regular,At Risk,3915.92,3,1305.3066666666666
+CP-12085,East,Silver,Regular,Other,414.02,3,138.00666666666666
+CP-12340,South,Gold,Occasional,Other,1432.72,2,716.36
+CR-12580,West,Platinum,Occasional,New Customers,1872.93,1,1872.93
+CR-12625,East,Silver,Occasional,Hibernating,334.68,1,334.68
+CR-12730,Central,Bronze,Occasional,Hibernating,23.12,1,23.12
+CR-12820,East,Silver,Occasional,New Customers,681.91,1,681.91
+CS-11845,West,Gold,Occasional,Other,1061.07,2,530.535
+CS-11860,South,Silver,Regular,Potential Loyalists,509.14,3,169.71333333333334
+CS-11950,Central,Gold,Frequent,Champions,1165.56,5,233.112
+CS-12130,West,Silver,Occasional,Lost,472.04,1,472.04
+CS-12175,West,Gold,Regular,Potential Loyalists,755.35,3,251.78333333333333
+CS-12250,Central,Silver,Frequent,Loyal Customers,575.4,5,115.08
+CS-12355,South,Gold,Regular,Loyal Customers,984.06,3,328.02
+CS-12400,South,Platinum,Frequent,Champions,2782.08,5,556.4159999999999
+CS-12460,South,Silver,Occasional,New Customers,550.64,2,275.32
+CS-12490,Central,Gold,Regular,At Risk,1063.4,3,354.4666666666667
+CS-12505,West,Bronze,Occasional,New Customers,206.62,2,103.31
+CT-11995,Central,Gold,Occasional,Promising,1099.99,2,549.995
+CV-12295,Central,Silver,Occasional,Hibernating,387.24,2,193.62
+CV-12805,West,Gold,Frequent,Champions,1101.38,4,275.345
+CW-11905,Central,Gold,Regular,Loyal Customers,785.85,3,261.95
+CY-12745,Central,Silver,Occasional,Hibernating,297.67,2,148.835
+Co-12640,West,Silver,Occasional,Lost,564.77,1,564.77
+DA-13450,East,Bronze,Occasional,Hibernating,87.4,2,43.7
+DB-12910,South,Gold,Frequent,Champions,1428.3,6,238.04999999999998
+DB-12970,West,Gold,Occasional,Promising,1036.08,2,518.04
+DB-13060,West,Gold,Occasional,Other,1171.87,2,585.935
+DB-13120,West,Gold,Frequent,Champions,1236.92,5,247.38400000000001
+DB-13210,Central,Gold,Frequent,Champions,1420.75,4,355.1875
+DB-13270,West,Platinum,Frequent,Champions,4161.65,5,832.3299999999999
+DB-13360,East,Silver,Occasional,Promising,386.14,1,386.14
+DB-13405,East,Silver,Occasional,Lost,601.44,1,601.44
+DB-13555,East,Platinum,Frequent,Champions,2060.01,4,515.0025
+DB-13615,West,Platinum,Frequent,Potential Loyalists,1837.67,4,459.4175
+DB-13660,Central,Bronze,Occasional,Hibernating,10.48,1,10.48
+DC-12850,South,Silver,Occasional,Promising,514.68,2,257.34
+DC-13285,West,Silver,Regular,Other,431.91,3,143.97
+DD-13570,West,Bronze,Occasional,Promising,109.62,1,109.62
+DE-13255,East,Bronze,Occasional,Hibernating,114.49,2,57.245
+DF-13135,West,Bronze,Occasional,Hibernating,110.1,1,110.1
+DG-13300,East,Silver,Occasional,Other,534.19,2,267.095
+DH-13075,West,Bronze,Occasional,Hibernating,200.74,1,200.74
+DH-13675,South,Silver,Occasional,Hibernating,457.74,1,457.74
+DJ-13420,South,Platinum,Frequent,At Risk Champions,2012.52,4,503.13
+DJ-13510,South,Silver,Frequent,Other,318.24,5,63.648
+DK-12835,Central,Gold,Frequent,Champions,1456.71,5,291.342
+DK-12895,Central,Platinum,Occasional,Promising,3589.05,2,1794.525
+DK-12985,South,Gold,Regular,Potential Loyalists,737.52,3,245.84
+DK-13090,West,Platinum,Frequent,Champions,1953.96,4,488.49
+DK-13150,Central,Silver,Occasional,Hibernating,433.56,1,433.56
+DK-13225,East,Platinum,Frequent,At Risk Champions,2895.68,4,723.92
+DK-13375,East,Gold,Frequent,Champions,1226.7,5,245.34
+DL-12865,South,Bronze,Occasional,Hibernating,187.06,1,187.06
+DL-12925,Central,Platinum,Frequent,Champions,3067.6,5,613.52
+DL-13315,East,Gold,Frequent,Champions,1055.22,5,211.044
+DL-13330,West,Bronze,Occasional,New Customers,41.37,1,41.37
+DL-13495,West,Gold,Occasional,Lost,837.6,1,837.6
+DM-12955,West,Bronze,Regular,Other,195.1,3,65.03333333333333
+DM-13015,West,Silver,Frequent,Loyal Customers,566.88,4,141.72
+DM-13345,South,Platinum,Frequent,Champions,3124.44,5,624.888
+DM-13525,Central,Gold,Regular,At Risk,1376.79,3,458.93
+DN-13690,West,Bronze,Occasional,Hibernating,160.21,2,80.105
+DO-13435,West,Silver,Occasional,Promising,282.22,2,141.11
+DO-13645,South,Silver,Regular,Loyal Customers,682.34,3,227.4466666666667
+DP-13000,Central,Silver,Regular,Other,259.13,3,86.37666666666667
+DP-13105,East,Platinum,Occasional,Lost,1671.08,1,1671.08
+DP-13165,East,Gold,Occasional,Other,1058.62,2,529.31
+DP-13390,West,Silver,Frequent,At Risk,401.69,5,80.338
+DR-12940,East,Platinum,Frequent,Champions,7426.9,4,1856.725
+DS-13030,East,Silver,Occasional,Promising,572.71,2,286.355
+DS-13180,Central,Gold,Regular,Loyal Customers,800.11,3,266.7033333333333
+DV-13045,West,Gold,Regular,Loyal Customers,1076.98,3,358.99333333333334
+DV-13465,West,Platinum,Frequent,Champions,2590.74,4,647.685
+DW-13195,South,Bronze,Occasional,Hibernating,4.37,1,4.37
+DW-13480,Central,Platinum,Regular,At Risk,4658.54,3,1552.8466666666666
+DW-13540,East,Bronze,Occasional,Promising,156.46,2,78.23
+DW-13585,East,Silver,Regular,Potential Loyalists,469.63,3,156.54333333333332
+Dl-13600,Central,Gold,Frequent,Loyal Customers,695.36,4,173.84
+Dp-13240,South,Platinum,Frequent,Champions,6221.05,5,1244.21
+EA-14035,East,Platinum,Frequent,At Risk Champions,1567.46,5,313.492
+EB-13705,East,Gold,Frequent,Loyal Customers,835.16,5,167.03199999999998
+EB-13750,West,Platinum,Frequent,Champions,2438.89,5,487.77799999999996
+EB-13840,West,Gold,Occasional,New Customers,856.4,2,428.2
+EB-13870,East,Gold,Frequent,Potential Loyalists,1160.56,6,193.42666666666665
+EB-13930,South,Bronze,Occasional,Hibernating,199.3,1,199.3
+EB-13975,South,Platinum,Regular,At Risk,1608.63,3,536.21
+EB-14110,East,Silver,Regular,Loyal Customers,646.9,3,215.63333333333333
+EB-14170,South,Bronze,Regular,Other,27.7,3,9.233333333333333
+EC-14050,South,Silver,Occasional,New Customers,337.23,2,168.615
+ED-13885,West,Platinum,Occasional,Other,2642.2,2,1321.1
+EG-13900,East,Platinum,Regular,Loyal Customers,1578.59,3,526.1966666666666
+EH-13765,East,Gold,Frequent,At Risk Champions,1166.3,4,291.575
+EH-13945,East,Bronze,Occasional,Hibernating,82.93,2,41.465
+EH-14005,East,Silver,Regular,Other,450.14,3,150.04666666666665
+EH-14125,East,Silver,Occasional,Hibernating,286.69,2,143.345
+EH-14185,East,Silver,Occasional,Lost,588.78,1,588.78
+EJ-13720,West,Gold,Occasional,Promising,1219.79,1,1219.79
+EJ-14155,West,Platinum,Frequent,Champions,2608.0,4,652.0
+EM-13810,West,Bronze,Occasional,Hibernating,167.5,2,83.75
+EM-13825,Central,Gold,Frequent,Loyal Customers,694.72,4,173.68
+EM-13960,East,Gold,Frequent,Potential Loyalists,879.32,4,219.83
+EM-14065,Central,Bronze,Occasional,Promising,30.34,1,30.34
+EM-14095,West,Silver,Regular,Loyal Customers,675.55,3,225.1833333333333
+EM-14140,West,Platinum,Regular,Loyal Customers,3279.57,3,1093.19
+EN-13780,East,Gold,Occasional,Lost,1562.69,1,1562.69
+EP-13915,Central,Platinum,Frequent,Champions,3828.28,8,478.535
+ER-13855,Central,Gold,Occasional,Other,1184.8,2,592.4
+ES-14020,East,Bronze,Occasional,Hibernating,239.97,1,239.97
+ES-14080,West,Gold,Regular,Loyal Customers,807.0,3,269.0
+FA-14230,Central,Silver,Regular,At Risk,433.92,3,144.64000000000001
+FC-14245,West,Gold,Regular,Loyal Customers,805.07,3,268.3566666666667
+FC-14335,West,Platinum,Regular,At Risk,2271.16,3,757.0533333333333
+FG-14260,Central,Silver,Occasional,New Customers,392.19,2,196.095
+FH-14275,Central,Platinum,Frequent,Champions,3422.25,5,684.45
+FH-14350,East,Bronze,Occasional,Promising,189.92,1,189.92
+FH-14365,East,Gold,Regular,Potential Loyalists,1490.86,3,496.9533333333333
+FM-14215,East,Gold,Frequent,At Risk Champions,1073.24,5,214.648
+FM-14290,West,Silver,Frequent,Loyal Customers,560.6,5,112.12
+FM-14380,West,Platinum,Frequent,Potential Loyalists,1836.8,5,367.36
+FO-14305,South,Platinum,Frequent,Potential Loyalists,1721.69,4,430.4225
+FP-14320,West,Platinum,Frequent,Champions,2886.47,5,577.294
+FW-14395,East,Bronze,Occasional,Hibernating,60.19,2,30.095
+GA-14515,West,Bronze,Occasional,Promising,143.55,2,71.775
+GA-14725,East,Gold,Frequent,Loyal Customers,784.39,5,156.878
+GB-14530,West,Gold,Frequent,Potential Loyalists,837.05,7,119.57857142857142
+GB-14575,East,Silver,Occasional,Hibernating,260.05,2,130.025
+GD-14590,East,Platinum,Regular,Potential Loyalists,1884.21,3,628.07
+GG-14650,South,Gold,Frequent,Champions,984.68,4,246.17
+GH-14410,West,Silver,Frequent,Other,300.53,5,60.105999999999995
+GH-14425,West,Gold,Regular,Loyal Customers,882.33,3,294.11
+GH-14485,Central,Gold,Occasional,Other,1361.24,2,680.62
+GK-14620,Central,Bronze,Occasional,New Customers,9.86,1,9.86
+GM-14440,West,Gold,Occasional,New Customers,918.44,2,459.22
+GM-14455,Central,Platinum,Regular,Potential Loyalists,1994.19,3,664.73
+GM-14500,West,Bronze,Regular,At Risk,54.65,3,18.216666666666665
+GM-14680,West,Platinum,Frequent,At Risk Champions,2354.13,4,588.5325
+GM-14695,West,Platinum,Occasional,New Customers,5574.27,2,2787.135
+GP-14740,East,Bronze,Occasional,Hibernating,44.91,1,44.91
+GT-14635,South,Platinum,Regular,Loyal Customers,9351.21,3,3117.0699999999997
+GT-14710,West,Gold,Occasional,Lost,1169.45,1,1169.45
+GT-14755,West,Bronze,Occasional,Hibernating,16.92,1,16.92
+GW-14605,East,Gold,Occasional,New Customers,1145.04,2,572.52
+GZ-14470,Central,Silver,Frequent,Potential Loyalists,617.79,4,154.4475
+GZ-14545,West,Bronze,Occasional,Promising,14.7,1,14.7
+HA-14905,East,Gold,Regular,Loyal Customers,835.48,3,278.49333333333334
+HA-14920,West,Platinum,Frequent,Champions,1827.83,5,365.566
+HD-14785,East,Bronze,Occasional,Hibernating,174.3,2,87.15
+HE-14800,East,Silver,Occasional,Promising,597.73,2,298.865
+HF-14995,Central,Gold,Frequent,Champions,1408.8,4,352.2
+HG-14845,East,Silver,Occasional,New Customers,382.55,2,191.275
+HG-14965,Central,Platinum,Regular,Loyal Customers,2170.76,3,723.5866666666667
+HG-15025,Central,Bronze,Occasional,Promising,171.78,2,85.89
+HK-14890,South,Silver,Regular,Potential Loyalists,581.61,3,193.87
+HL-15040,Central,Bronze,Regular,Other,73.02,3,24.34
+HM-14860,West,Gold,Frequent,Potential Loyalists,1080.24,4,270.06
+HM-14980,West,Silver,Occasional,Promising,592.08,2,296.04
+HP-14815,West,Silver,Occasional,Hibernating,325.4,2,162.7
+HR-14770,Central,Gold,Regular,Potential Loyalists,928.78,3,309.5933333333333
+HW-14935,Central,Platinum,Occasional,New Customers,5322.17,2,2661.085
+IG-15085,East,Silver,Occasional,Hibernating,370.14,1,370.14
+IL-15100,West,Platinum,Frequent,Potential Loyalists,4925.6,6,820.9333333333334
+IM-15055,West,Platinum,Occasional,Lost,2824.23,1,2824.23
+IM-15070,West,Platinum,Frequent,At Risk Champions,2322.81,4,580.7025
+JA-15970,West,Gold,Frequent,Champions,1298.62,4,324.655
+JB-15400,West,Gold,Frequent,Loyal Customers,756.19,5,151.238
+JB-15925,Central,Silver,Occasional,Hibernating,272.63,2,136.315
+JB-16000,East,Bronze,Frequent,Other,85.39,4,21.3475
+JB-16045,West,Gold,Regular,At Risk Champions,1178.68,3,392.8933333333334
+JC-15340,West,Bronze,Occasional,New Customers,57.5,2,28.75
+JC-15385,West,Gold,Occasional,Promising,1058.11,1,1058.11
+JC-15775,East,Bronze,Occasional,Promising,42.93,1,42.93
+JC-16105,South,Bronze,Occasional,New Customers,213.37,2,106.685
+JD-15790,Central,Platinum,Frequent,Champions,1924.39,4,481.0975
+JD-15895,East,Platinum,Frequent,At Risk Champions,2931.62,4,732.905
+JD-16015,East,Silver,Frequent,Other,274.59,4,68.6475
+JD-16060,Central,Silver,Occasional,Promising,375.71,1,375.71
+JE-15610,South,Platinum,Regular,Champions,3703.15,3,1234.3833333333334
+JE-15715,West,Platinum,Occasional,Other,2579.31,2,1289.655
+JE-15745,East,Silver,Regular,Other,461.55,3,153.85
+JE-16165,Central,Platinum,Occasional,New Customers,2672.57,2,1336.285
+JF-15190,West,Platinum,Frequent,Potential Loyalists,1710.74,4,427.685
+JF-15295,West,Silver,Occasional,Hibernating,250.42,1,250.42
+JF-15355,South,Bronze,Occasional,Hibernating,118.17,2,59.085
+JF-15415,West,Platinum,Occasional,New Customers,2083.99,2,1041.995
+JF-15490,West,Gold,Frequent,Potential Loyalists,761.16,4,190.29
+JF-15565,Central,Platinum,Frequent,Champions,3470.79,5,694.158
+JG-15115,South,Silver,Occasional,Hibernating,312.32,2,156.16
+JG-15160,South,Gold,Regular,At Risk Champions,1426.02,3,475.34
+JG-15310,Central,Silver,Occasional,Lost,606.21,1,606.21
+JG-15805,Central,Bronze,Occasional,Hibernating,209.17,2,104.585
+JH-15820,Central,Bronze,Occasional,Promising,236.42,2,118.21
+JH-15910,Central,Bronze,Regular,Other,90.74,3,30.246666666666666
+JH-15985,Central,Platinum,Frequent,Champions,2602.21,4,650.5525
+JH-16180,East,Gold,Occasional,Other,1215.53,2,607.765
+JJ-15445,Central,Bronze,Occasional,Hibernating,61.6,2,30.8
+JJ-15760,South,Bronze,Occasional,Hibernating,195.0,2,97.5
+JK-15205,South,Bronze,Occasional,Hibernating,201.21,2,100.605
+JK-15370,West,Gold,Regular,Potential Loyalists,1280.83,3,426.9433333333333
+JK-15625,West,Gold,Occasional,Other,756.4,2,378.2
+JK-15640,West,Platinum,Occasional,Promising,4261.5,2,2130.75
+JK-15730,Central,Platinum,Regular,Champions,1858.03,3,619.3433333333334
+JK-16090,Central,Platinum,Occasional,New Customers,2854.58,2,1427.29
+JK-16120,Central,Gold,Frequent,Champions,1169.38,6,194.89666666666668
+JL-15130,Central,Bronze,Occasional,Promising,78.64,2,39.32
+JL-15175,South,Bronze,Occasional,New Customers,153.18,2,76.59
+JL-15235,East,Silver,Occasional,New Customers,641.73,2,320.865
+JL-15505,East,Platinum,Regular,Champions,3037.22,3,1012.4066666666666
+JL-15835,East,Platinum,Regular,Champions,2340.8,3,780.2666666666668
+JL-15850,West,Platinum,Occasional,Other,1643.04,2,821.52
+JM-15250,Central,Gold,Occasional,Lost,954.9,1,954.9
+JM-15265,East,Gold,Occasional,Lost,1045.21,1,1045.21
+JM-15535,West,Bronze,Occasional,New Customers,8.36,1,8.36
+JM-15580,South,Bronze,Occasional,Hibernating,154.77,2,77.385
+JM-15655,West,Silver,Occasional,Hibernating,424.02,2,212.01
+JM-15865,West,Silver,Occasional,New Customers,511.76,2,255.88
+JM-16195,East,Gold,Frequent,Loyal Customers,919.26,5,183.852
+JO-15145,South,Platinum,Frequent,Champions,1778.24,4,444.56
+JO-15280,West,Gold,Occasional,Lost,1038.84,1,1038.84
+JO-15550,West,Bronze,Occasional,Hibernating,2.48,1,2.48
+JP-15460,East,Bronze,Occasional,Hibernating,235.97,1,235.97
+JP-15520,West,Platinum,Regular,Champions,3573.43,3,1191.1433333333332
+JP-16135,South,Gold,Frequent,Potential Loyalists,1146.47,5,229.294
+JR-16210,East,Bronze,Occasional,Hibernating,130.73,2,65.365
+JS-15595,Central,Silver,Occasional,New Customers,619.75,2,309.875
+JS-15880,South,Gold,Occasional,Other,1538.15,2,769.075
+JS-15940,East,Bronze,Occasional,Hibernating,153.73,2,76.865
+JS-16030,Central,Silver,Occasional,New Customers,303.37,1,303.37
+JW-15220,South,Bronze,Occasional,New Customers,10.16,1,10.16
+JW-15955,East,Bronze,Occasional,Promising,116.48,1,116.48
+JW-16075,East,Bronze,Occasional,Hibernating,141.79,2,70.895
+KA-16525,East,Bronze,Occasional,Hibernating,208.78,2,104.39
+KB-16240,West,Platinum,Frequent,Potential Loyalists,1802.89,4,450.7225
+KB-16315,South,Silver,Regular,Potential Loyalists,637.48,3,212.49333333333334
+KB-16405,West,Gold,Occasional,New Customers,753.66,2,376.83
+KB-16585,Central,Gold,Frequent,Potential Loyalists,894.47,7,127.78142857142858
+KB-16600,Central,Bronze,Regular,Other,133.6,3,44.53333333333333
+KC-16255,South,Bronze,Occasional,Hibernating,181.63,2,90.815
+KC-16540,West,Platinum,Occasional,Other,3802.91,2,1901.455
+KC-16675,West,Silver,Occasional,New Customers,447.0,1,447.0
+KD-16270,South,Platinum,Frequent,At Risk Champions,8282.36,5,1656.4720000000002
+KD-16345,East,Bronze,Occasional,Hibernating,72.69,1,72.69
+KD-16495,Central,Platinum,Frequent,Champions,7279.56,5,1455.912
+KD-16615,West,Bronze,Occasional,Promising,107.65,1,107.65
+KE-16420,South,Silver,Frequent,Loyal Customers,673.09,5,134.618
+KF-16285,West,Platinum,Frequent,Champions,9536.56,4,2384.14
+KH-16330,Central,Bronze,Occasional,Hibernating,118.45,2,59.225
+KH-16360,East,Bronze,Occasional,Promising,33.17,2,16.585
+KH-16510,West,Platinum,Occasional,New Customers,4055.49,2,2027.745
+KH-16630,Central,Gold,Frequent,Champions,1335.55,6,222.59166666666667
+KH-16690,West,Bronze,Occasional,Hibernating,108.72,2,54.36
+KL-16555,South,Platinum,Occasional,New Customers,2252.16,2,1126.08
+KL-16645,Central,Platinum,Frequent,Potential Loyalists,1629.88,4,407.47
+KM-16225,East,Platinum,Frequent,Champions,1840.72,5,368.144
+KM-16375,South,Silver,Regular,Other,310.64,3,103.54666666666667
+KM-16660,South,Bronze,Occasional,Hibernating,148.95,2,74.475
+KM-16720,West,Gold,Occasional,New Customers,1317.86,2,658.93
+KN-16390,West,Platinum,Frequent,Champions,1911.29,7,273.0414285714286
+KN-16450,West,Platinum,Regular,Champions,2162.88,3,720.96
+KN-16705,South,Silver,Regular,Other,329.09,3,109.69666666666666
+KS-16300,South,Bronze,Occasional,Promising,61.88,1,61.88
+KT-16465,Central,Gold,Occasional,Other,1271.57,2,635.785
+KT-16480,West,Platinum,Frequent,At Risk Champions,4240.49,4,1060.1225
+KW-16435,Central,Bronze,Occasional,Hibernating,2.77,1,2.77
+KW-16570,Central,Silver,Occasional,Hibernating,241.34,1,241.34
+LA-16780,East,Platinum,Regular,At Risk Champions,2118.79,3,706.2633333333333
+LB-16735,South,Bronze,Occasional,New Customers,26.72,1,26.72
+LB-16795,South,Platinum,Frequent,Potential Loyalists,3517.47,5,703.4939999999999
+LC-16870,Central,Gold,Frequent,Champions,1082.77,4,270.6925
+LC-16885,South,Bronze,Occasional,Promising,27.42,2,13.71
+LC-16930,Central,Silver,Frequent,Loyal Customers,523.9,4,130.975
+LC-16960,West,Platinum,Occasional,Lost,2676.67,1,2676.67
+LC-17050,West,Platinum,Frequent,Champions,1804.4,4,451.1
+LC-17140,West,Silver,Frequent,Loyal Customers,478.66,4,119.665
+LD-17005,Central,Silver,Occasional,Hibernating,315.56,2,157.78
+LE-16810,West,Silver,Occasional,New Customers,474.67,2,237.335
+LF-17185,East,Gold,Regular,Champions,1219.13,3,406.3766666666667
+LH-16750,South,Silver,Occasional,Promising,271.96,1,271.96
+LH-16900,West,Gold,Frequent,Champions,982.0,4,245.5
+LH-17020,East,Silver,Frequent,Other,318.24,4,79.56
+LH-17155,West,Gold,Frequent,At Risk Champions,1321.4,5,264.28000000000003
+LL-16840,West,Silver,Occasional,Hibernating,303.29,2,151.645
+LM-17065,East,Bronze,Occasional,Hibernating,53.87,2,26.935
+LO-17170,West,Bronze,Occasional,Hibernating,222.95,2,111.475
+LP-17080,West,Silver,Occasional,Promising,625.68,2,312.84
+LP-17095,South,Gold,Frequent,Champions,1164.49,5,232.898
+LR-16915,West,Platinum,Frequent,Champions,4702.75,5,940.55
+LR-17035,East,Gold,Occasional,Other,938.25,2,469.125
+LS-16945,Central,Silver,Occasional,Promising,406.17,2,203.085
+LS-16975,West,Silver,Regular,Loyal Customers,610.84,3,203.61333333333334
+LS-17230,West,Bronze,Occasional,Hibernating,19.44,1,19.44
+LT-16765,West,Silver,Regular,Other,329.88,3,109.96
+LT-17110,West,Platinum,Regular,At Risk Champions,1991.96,3,663.9866666666667
+LW-16825,South,Silver,Occasional,New Customers,601.74,2,300.87
+LW-16990,South,Platinum,Frequent,Potential Loyalists,2498.03,4,624.5075
+LW-17125,East,Gold,Regular,Potential Loyalists,1259.04,3,419.68
+LW-17215,West,Platinum,Frequent,Champions,5124.19,5,1024.838
+MA-17560,East,Platinum,Frequent,At Risk Champions,2892.21,4,723.0525
+MA-17995,Central,Platinum,Occasional,Other,1799.47,2,899.735
+MB-17305,West,Gold,Frequent,Champions,961.24,6,160.20666666666668
+MB-18085,East,Gold,Frequent,Potential Loyalists,1397.02,5,279.404
+MC-17275,East,Platinum,Occasional,Other,1812.89,2,906.445
+MC-17575,East,Gold,Frequent,Champions,1260.03,6,210.005
+MC-17590,West,Bronze,Occasional,New Customers,204.03,2,102.015
+MC-17605,Central,Gold,Regular,Champions,1106.25,3,368.75
+MC-17635,Central,Bronze,Occasional,Hibernating,25.92,1,25.92
+MC-17845,South,Platinum,Frequent,Champions,2971.77,4,742.9425
+MC-18100,Central,Bronze,Regular,Other,151.98,3,50.66
+MC-18130,South,Bronze,Occasional,Hibernating,46.44,2,23.22
+MD-17350,East,Platinum,Frequent,Champions,2610.99,5,522.198
+MD-17860,Central,Bronze,Occasional,Hibernating,114.78,1,114.78
+ME-17320,South,Platinum,Frequent,Champions,8866.71,5,1773.3419999999999
+ME-17725,South,Gold,Regular,Loyal Customers,810.47,3,270.1566666666667
+MF-17665,East,Silver,Regular,At Risk,262.71,3,87.57
+MF-18250,East,Silver,Occasional,Hibernating,458.36,2,229.18
+MG-17650,West,Platinum,Frequent,Champions,3222.01,4,805.5025
+MG-17680,West,Gold,Occasional,Promising,1515.19,1,1515.19
+MG-17695,Central,Bronze,Occasional,Hibernating,145.5,1,145.5
+MG-17875,East,Silver,Occasional,New Customers,354.66,2,177.33
+MG-17890,East,Bronze,Occasional,Other,66.07,2,33.035
+MG-18145,East,Platinum,Occasional,Loyal Customers,2079.67,2,1039.835
+MG-18205,South,Bronze,Occasional,Promising,16.74,1,16.74
+MH-17290,East,Platinum,Occasional,Loyal Customers,1689.71,2,844.855
+MH-17440,Central,Silver,Occasional,At Risk,258.75,2,129.375
+MH-17455,South,Platinum,Frequent,Champions,1849.74,4,462.435
+MH-17620,West,Bronze,Occasional,At Risk,75.42,2,37.71
+MH-17785,West,Bronze,Occasional,Hibernating,104.7,1,104.7
+MH-18025,East,Bronze,Occasional,Other,152.8,2,76.4
+MH-18115,East,Bronze,Occasional,Promising,91.73,1,91.73
+MJ-17740,West,Gold,Frequent,Champions,1255.1,5,251.01999999999998
+MK-17905,South,Bronze,Occasional,New Customers,47.96,1,47.96
+MK-18160,West,Gold,Regular,Potential Loyalists,778.99,3,259.66333333333336
+ML-17395,West,Gold,Frequent,At Risk Champions,1234.21,4,308.5525
+ML-17410,East,Bronze,Occasional,New Customers,175.32,1,175.32
+ML-17755,South,Gold,Frequent,Champions,1320.29,5,264.058
+ML-18040,West,Silver,Occasional,Loyal Customers,681.24,2,340.62
+MM-17260,East,Bronze,Occasional,Hibernating,147.57,1,147.57
+MM-17920,East,Platinum,Frequent,Champions,3327.08,4,831.77
+MM-18055,Central,Gold,Regular,Champions,1256.81,3,418.93666666666667
+MM-18280,East,Bronze,Occasional,Other,55.12,2,27.56
+MN-17935,East,Silver,Occasional,At Risk,609.46,2,304.73
+MO-17500,East,Gold,Occasional,At Risk,813.96,2,406.98
+MO-17800,Central,Silver,Occasional,Other,305.51,2,152.755
+MO-17950,Central,Bronze,Occasional,Other,154.29,2,77.145
+MP-17470,East,Platinum,Frequent,At Risk Champions,1750.96,4,437.74
+MP-17965,East,Silver,Regular,Other,302.88,3,100.96
+MP-18175,West,Silver,Frequent,Other,344.17,4,86.0425
+MR-17545,East,Bronze,Regular,Other,190.36,3,63.45333333333334
+MS-17365,Central,Platinum,Frequent,Potential Loyalists,3098.2,6,516.3666666666667
+MS-17530,West,Silver,Occasional,At Risk,337.3,2,168.65
+MS-17710,West,Bronze,Occasional,At Risk,127.45,2,63.725
+MS-17770,Central,Silver,Regular,At Risk,603.73,3,201.24333333333334
+MS-17830,Central,Silver,Regular,At Risk,359.84,3,119.94666666666666
+MS-17980,Central,Gold,Frequent,Loyal Customers,721.98,4,180.495
+MT-17815,West,Bronze,Regular,Other,52.72,3,17.573333333333334
+MT-18070,West,Gold,Occasional,Potential Loyalists,975.54,2,487.77
+MV-17485,South,Silver,Regular,Loyal Customers,565.72,3,188.57333333333335
+MV-18190,East,Gold,Frequent,Champions,999.11,4,249.7775
+MW-18220,East,Bronze,Occasional,Hibernating,73.78,1,73.78
+MY-17380,West,Gold,Occasional,Loyal Customers,687.08,2,343.54
+MY-18295,East,Gold,Frequent,Loyal Customers,946.97,4,236.7425
+MZ-17335,West,Silver,Occasional,At Risk,547.95,2,273.975
+MZ-17515,East,Platinum,Frequent,At Risk Champions,2203.05,4,550.7625
+NB-18655,East,Silver,Regular,Loyal Customers,605.0,3,201.66666666666666
+NC-18340,Central,Gold,Occasional,At Risk,1316.92,2,658.46
+NC-18415,East,Bronze,Occasional,At Risk,64.03,2,32.015
+NC-18535,West,Platinum,Regular,Champions,5741.4,3,1913.8
+NC-18625,Central,Gold,Regular,Potential Loyalists,991.47,3,330.49
+ND-18370,South,Gold,Regular,Loyal Customers,727.03,3,242.34333333333333
+ND-18460,South,Platinum,Occasional,Potential Loyalists,1669.08,2,834.54
+NF-18385,South,Platinum,Occasional,Loyal Customers,2181.47,2,1090.735
+NF-18475,West,Bronze,Occasional,Hibernating,4.71,1,4.71
+NF-18595,East,Silver,Frequent,Other,389.34,4,97.335
+NG-18355,East,Silver,Occasional,New Customers,370.78,1,370.78
+NG-18430,Central,Gold,Regular,Champions,1278.94,3,426.31333333333333
+NH-18610,Central,Gold,Occasional,Potential Loyalists,735.48,2,367.74
+NK-18490,West,Bronze,Occasional,New Customers,102.83,1,102.83
+NL-18310,West,Gold,Occasional,New Customers,1158.88,1,1158.88
+NM-18445,East,Platinum,Regular,At Risk Champions,5321.48,3,1773.8266666666666
+NM-18520,Central,Platinum,Frequent,At Risk Champions,1885.81,4,471.4525
+NP-18325,West,Platinum,Regular,Champions,3817.89,3,1272.6299999999999
+NP-18670,Central,Platinum,Occasional,Loyal Customers,2353.94,2,1176.97
+NP-18685,Central,Gold,Regular,At Risk Champions,1115.01,3,371.67
+NP-18700,West,Platinum,Frequent,At Risk Champions,7174.72,4,1793.68
+NR-18550,Central,Platinum,Regular,Potential Loyalists,1747.38,3,582.46
+NS-18505,West,Silver,Occasional,New Customers,413.78,1,413.78
+NS-18640,Central,Platinum,Frequent,Potential Loyalists,2156.95,9,239.6611111111111
+NW-18400,East,Platinum,Regular,Potential Loyalists,3598.99,3,1199.6633333333332
+NZ-18565,West,Gold,Frequent,Champions,1452.38,6,242.06333333333336
+ON-18715,Central,Gold,Frequent,At Risk,753.08,4,188.27
+OT-18730,West,Gold,Occasional,Lost,1388.78,1,1388.78
+PA-19060,Central,Bronze,Occasional,Hibernating,112.04,1,112.04
+PB-18805,West,Silver,Occasional,New Customers,497.04,1,497.04
+PB-19105,East,Bronze,Occasional,New Customers,40.78,1,40.78
+PB-19150,South,Bronze,Occasional,Hibernating,23.47,1,23.47
+PB-19210,Central,Bronze,Occasional,Hibernating,69.93,1,69.93
+PC-18745,West,Bronze,Occasional,Hibernating,225.83,1,225.83
+PC-19000,West,Gold,Occasional,At Risk,1061.49,2,530.745
+PF-19120,South,Gold,Occasional,At Risk,887.74,2,443.87
+PF-19165,West,Silver,Occasional,Lost,479.97,1,479.97
+PF-19225,West,Platinum,Regular,Champions,2058.95,3,686.3166666666666
+PG-18820,West,Gold,Frequent,Champions,1042.73,5,208.546
+PG-18895,Central,Gold,Regular,Loyal Customers,753.48,3,251.16
+PJ-18835,South,Bronze,Regular,Other,50.0,3,16.666666666666668
+PJ-19015,South,Bronze,Occasional,At Risk,155.0,2,77.5
+PK-18910,East,Gold,Occasional,At Risk,1441.15,2,720.575
+PK-19075,Central,Platinum,Frequent,Champions,2917.96,5,583.592
+PL-18925,West,Bronze,Occasional,Hibernating,65.8,1,65.8
+PM-18940,Central,Gold,Occasional,At Risk,1103.66,2,551.83
+PM-19135,Central,Gold,Occasional,Loyal Customers,751.29,2,375.645
+PN-18775,East,Bronze,Regular,Other,181.85,3,60.61666666666667
+PO-18850,South,Silver,Frequent,Other,434.46,5,86.892
+PO-18865,Central,Silver,Occasional,Promising,338.86,1,338.86
+PO-19180,Central,Platinum,Frequent,At Risk Champions,3866.64,4,966.66
+PO-19195,Central,Silver,Occasional,Loyal Customers,524.78,2,262.39
+PP-18955,South,Platinum,Frequent,At Risk Champions,3453.34,4,863.335
+PR-18880,South,Bronze,Occasional,At Risk,153.87,2,76.935
+PS-18760,East,Silver,Occasional,Hibernating,435.85,1,435.85
+PS-18970,East,Bronze,Regular,Other,219.95,3,73.31666666666666
+PS-19045,West,Platinum,Regular,Potential Loyalists,3389.83,3,1129.9433333333334
+PT-19090,Central,Bronze,Occasional,At Risk,98.64,2,49.32
+PV-18985,West,Platinum,Regular,Champions,2332.03,3,777.3433333333334
+PW-19030,South,Bronze,Regular,Other,220.48,3,73.49333333333333
+PW-19240,West,Silver,Occasional,Hibernating,359.5,1,359.5
+QJ-19255,Central,Platinum,Frequent,Champions,4947.48,6,824.5799999999999
+RA-19285,Central,Gold,Regular,Loyal Customers,831.89,3,277.2966666666667
+RA-19885,West,Gold,Regular,Champions,1380.52,3,460.17333333333335
+RA-19915,West,Platinum,Occasional,Lost,2027.14,1,2027.14
+RA-19945,East,Bronze,Occasional,Hibernating,25.49,1,25.49
+RB-19360,East,Silver,Occasional,Lost,560.78,1,560.78
+RB-19435,Central,Gold,Frequent,Loyal Customers,959.95,4,239.9875
+RB-19465,West,Gold,Frequent,At Risk Champions,1389.11,4,347.2775
+RB-19570,Central,Silver,Occasional,Other,398.47,2,199.235
+RB-19705,West,Bronze,Occasional,New Customers,5.68,1,5.68
+RB-19795,Central,Bronze,Regular,Other,201.05,3,67.01666666666667
+RC-19825,Central,Silver,Regular,At Risk,363.52,3,121.17333333333333
+RC-19960,South,Silver,Regular,Other,462.99,3,154.33
+RD-19480,Central,Platinum,Regular,At Risk Champions,1891.07,3,630.3566666666667
+RD-19585,Central,Platinum,Frequent,Potential Loyalists,1820.51,5,364.102
+RD-19660,Central,Platinum,Occasional,Loyal Customers,1618.68,2,809.34
+RD-19720,East,Gold,Frequent,Loyal Customers,706.07,5,141.214
+RD-19810,East,Gold,Regular,At Risk,712.94,3,237.64666666666668
+RD-19900,West,Platinum,Regular,Champions,1895.92,3,631.9733333333334
+RD-19930,Central,Bronze,Occasional,Other,164.01,2,82.005
+RE-19450,Central,Bronze,Occasional,Other,237.06,2,118.53
+RF-19345,South,Bronze,Occasional,At Risk,22.03,2,11.015
+RF-19735,Central,Silver,Occasional,Other,338.56,2,169.28
+RF-19840,Central,Silver,Occasional,At Risk,489.79,2,244.895
+RH-19495,South,Bronze,Occasional,Promising,20.74,1,20.74
+RH-19510,West,Platinum,Occasional,Lost,3384.45,1,3384.45
+RH-19555,South,Bronze,Occasional,Hibernating,8.23,1,8.23
+RH-19600,Central,Platinum,Occasional,At Risk,2056.74,2,1028.37
+RK-19300,East,Bronze,Occasional,Other,221.86,2,110.93
+RL-19615,Central,Platinum,Frequent,Potential Loyalists,4608.12,4,1152.03
+RM-19375,Central,Silver,Regular,At Risk,617.41,3,205.8033333333333
+RM-19675,East,Silver,Occasional,Hibernating,334.43,1,334.43
+RM-19750,East,Bronze,Occasional,Promising,98.35,1,98.35
+RO-19780,South,Platinum,Frequent,At Risk Champions,1853.29,4,463.3225
+RP-19270,Central,Silver,Occasional,Hibernating,467.65,1,467.65
+RP-19390,Central,Platinum,Frequent,At Risk Champions,2929.12,5,585.824
+RP-19855,Central,Silver,Regular,Loyal Customers,662.93,3,220.97666666666666
+RR-19315,Central,Silver,Occasional,New Customers,608.55,1,608.55
+RR-19525,East,Platinum,Occasional,At Risk,2401.79,2,1200.895
+RS-19420,West,Platinum,Regular,At Risk Champions,2142.4,3,714.1333333333333
+RS-19765,South,Platinum,Frequent,Champions,2148.35,5,429.66999999999996
+RS-19870,Central,Bronze,Occasional,Other,22.33,2,11.165
+RW-19540,West,Platinum,Regular,Potential Loyalists,2784.61,3,928.2033333333334
+RW-19630,Central,Silver,Regular,Other,272.3,3,90.76666666666667
+RW-19690,Central,Gold,Occasional,Loyal Customers,1250.64,2,625.32
+SA-20830,South,Silver,Occasional,Other,291.25,2,145.625
+SB-20170,East,Gold,Regular,Potential Loyalists,1348.02,3,449.34
+SB-20185,West,Bronze,Occasional,Promising,91.42,1,91.42
+SB-20290,East,Platinum,Frequent,Champions,1648.9,4,412.225
+SC-20020,Central,Platinum,Frequent,At Risk Champions,2009.43,4,502.3575
+SC-20050,Central,Silver,Occasional,Other,378.89,2,189.445
+SC-20095,West,Platinum,Frequent,At Risk Champions,2195.45,4,548.8625
+SC-20230,Central,Gold,Regular,Potential Loyalists,1032.84,3,344.28
+SC-20260,West,Gold,Occasional,Lost,687.45,1,687.45
+SC-20305,Central,Silver,Occasional,Loyal Customers,555.43,2,277.715
+SC-20380,West,Gold,Regular,At Risk,821.69,3,273.8966666666667
+SC-20440,West,Bronze,Occasional,At Risk,147.08,2,73.54
+SC-20575,South,Bronze,Occasional,Hibernating,50.46,1,50.46
+SC-20695,South,Platinum,Frequent,Champions,1636.03,7,233.71857142857144
+SC-20725,East,Platinum,Frequent,At Risk Champions,2393.13,5,478.62600000000003
+SC-20770,South,Silver,Occasional,Other,244.1,2,122.05
+SC-20800,Central,Bronze,Occasional,Hibernating,206.33,1,206.33
+SC-20845,Central,Bronze,Occasional,Hibernating,14.11,1,14.11
+SD-20485,East,Silver,Regular,At Risk,398.71,3,132.90333333333334
+SE-20110,East,Platinum,Frequent,At Risk Champions,10402.53,5,2080.5060000000003
+SF-20065,East,Silver,Regular,Loyal Customers,612.55,3,204.1833333333333
+SF-20200,West,Platinum,Frequent,Champions,2830.05,5,566.01
+SF-20965,East,Silver,Frequent,Other,322.61,4,80.6525
+SG-20470,East,Bronze,Occasional,Hibernating,26.82,1,26.82
+SG-20605,East,Platinum,Occasional,At Risk,2622.88,2,1311.44
+SG-20890,Central,Bronze,Occasional,Hibernating,19.65,1,19.65
+SH-19975,East,Gold,Frequent,Champions,1221.47,4,305.3675
+SH-20395,East,Platinum,Frequent,Champions,2173.61,8,271.70125
+SJ-20125,East,Silver,Frequent,Other,353.04,5,70.608
+SJ-20215,Central,Gold,Regular,Loyal Customers,911.13,3,303.71
+SJ-20500,East,Gold,Occasional,At Risk,1000.59,2,500.295
+SL-20155,South,Bronze,Occasional,At Risk,74.24,2,37.12
+SM-20005,East,Bronze,Occasional,At Risk,195.19,2,97.595
+SM-20320,South,Silver,Occasional,Loyal Customers,534.42,2,267.21
+SM-20905,East,Gold,Occasional,Lost,1043.04,1,1043.04
+SM-20950,East,Silver,Regular,Other,455.74,3,151.91333333333333
+SN-20560,Central,Gold,Regular,Champions,1191.98,3,397.32666666666665
+SN-20710,Central,Silver,Occasional,Other,368.32,2,184.16
+SO-20335,South,Platinum,Frequent,Champions,2417.32,4,604.33
+SP-20545,East,Silver,Occasional,At Risk,625.67,2,312.835
+SP-20620,East,Platinum,Frequent,Champions,4459.12,5,891.824
+SP-20650,East,Gold,Frequent,At Risk,759.64,5,151.928
+SP-20860,West,Bronze,Regular,Other,107.55,3,35.85
+SP-20920,East,Platinum,Occasional,Lost,3588.1,1,3588.1
+SR-20425,East,Silver,Occasional,Other,265.27,2,132.635
+SR-20740,West,Bronze,Frequent,At Risk,139.09,4,34.7725
+SS-20140,West,Bronze,Occasional,Promising,60.62,1,60.62
+SS-20410,South,Silver,Regular,Loyal Customers,534.64,3,178.21333333333334
+SS-20590,West,Bronze,Regular,At Risk,182.17,3,60.72333333333333
+SS-20875,West,Bronze,Occasional,Promising,42.91,1,42.91
+ST-20530,South,Bronze,Occasional,Hibernating,58.72,1,58.72
+SU-20665,South,Gold,Frequent,Champions,1199.23,5,239.846
+SV-20365,East,Gold,Frequent,Potential Loyalists,1104.9,4,276.225
+SV-20785,South,Platinum,Frequent,At Risk Champions,2474.64,5,494.928
+SV-20815,Central,Bronze,Occasional,Hibernating,125.93,1,125.93
+SV-20935,East,Silver,Occasional,Other,458.61,2,229.305
+SW-20245,East,Silver,Frequent,Other,443.15,4,110.7875
+SW-20275,Central,Gold,Occasional,At Risk,907.95,2,453.975
+SW-20350,Central,Silver,Occasional,Lost,523.18,1,523.18
+SW-20455,South,Silver,Regular,At Risk,402.5,3,134.16666666666666
+SW-20755,West,Bronze,Occasional,Hibernating,94.73,1,94.73
+SZ-20035,West,Gold,Frequent,Champions,1040.78,7,148.68285714285713
+TA-21385,Central,Gold,Regular,Potential Loyalists,879.16,3,293.05333333333334
+TB-21055,East,Silver,Occasional,Other,254.16,2,127.08
+TB-21175,Central,Platinum,Frequent,Champions,3589.3,4,897.325
+TB-21190,West,Bronze,Occasional,Other,42.72,2,21.36
+TB-21250,East,Gold,Frequent,At Risk,961.15,4,240.2875
+TB-21280,South,Bronze,Occasional,Hibernating,95.97,1,95.97
+TB-21355,Central,Bronze,Occasional,Promising,115.3,1,115.3
+TB-21400,West,Platinum,Regular,Potential Loyalists,1856.71,3,618.9033333333333
+TB-21520,West,Bronze,Occasional,Hibernating,14.37,1,14.37
+TB-21595,West,Bronze,Occasional,Hibernating,146.69,1,146.69
+TB-21625,West,Silver,Regular,At Risk,442.67,3,147.55666666666667
+TC-20980,Central,Platinum,Occasional,At Risk,18437.14,2,9218.57
+TC-21295,West,Gold,Regular,Loyal Customers,921.34,3,307.11333333333334
+TC-21475,South,Gold,Occasional,Potential Loyalists,805.72,2,402.86
+TC-21535,East,Bronze,Regular,Other,122.48,3,40.82666666666667
+TD-20995,East,Bronze,Regular,Other,74.94,3,24.98
+TG-21310,South,Gold,Occasional,At Risk,1004.59,2,502.295
+TG-21640,West,Gold,Occasional,Loyal Customers,744.56,2,372.28
+TH-21100,South,Bronze,Occasional,Hibernating,27.86,1,27.86
+TH-21115,East,Gold,Occasional,Loyal Customers,904.46,2,452.23
+TH-21235,Central,Silver,Regular,Loyal Customers,547.65,3,182.54999999999998
+TH-21550,East,Bronze,Occasional,Hibernating,55.48,1,55.48
+TM-21010,West,Silver,Occasional,At Risk,616.54,2,308.27
+TN-21040,West,Gold,Regular,Loyal Customers,802.31,3,267.43666666666667
+TP-21130,South,Platinum,Occasional,Loyal Customers,1836.35,2,918.175
+TP-21415,Central,Silver,Occasional,Hibernating,397.74,1,397.74
+TP-21565,West,Platinum,Regular,At Risk Champions,1598.95,3,532.9833333333333
+TR-21325,Central,Silver,Regular,At Risk,410.6,3,136.86666666666667
+TS-21085,South,Bronze,Occasional,Hibernating,2.81,1,2.81
+TS-21160,West,Bronze,Occasional,Hibernating,60.63,1,60.63
+TS-21205,West,Gold,Regular,At Risk Champions,1249.12,3,416.3733333333333
+TS-21340,Central,Bronze,Occasional,At Risk,9.72,2,4.86
+TS-21370,West,Platinum,Regular,Champions,6856.02,3,2285.34
+TS-21430,East,Silver,Occasional,Potential Loyalists,647.68,2,323.84
+TS-21505,West,Silver,Occasional,Loyal Customers,563.89,2,281.945
+TS-21610,West,Silver,Regular,Other,269.86,3,89.95333333333333
+TS-21655,West,Platinum,Regular,Potential Loyalists,2167.9,3,722.6333333333333
+TT-21070,West,Silver,Regular,At Risk,284.85,3,94.95
+TT-21220,Central,Silver,Regular,At Risk,443.52,3,147.84
+TT-21265,East,Bronze,Occasional,Hibernating,61.44,1,61.44
+TT-21460,Central,Platinum,Occasional,Potential Loyalists,2193.8,2,1096.9
+TW-21025,South,Platinum,Occasional,At Risk,4278.61,2,2139.305
+TZ-21580,West,Gold,Occasional,At Risk,1209.28,2,604.64
+VB-21745,South,Silver,Occasional,Loyal Customers,674.32,2,337.16
+VD-21670,West,Platinum,Regular,At Risk Champions,4733.23,3,1577.743333333333
+VF-21715,West,Gold,Occasional,Potential Loyalists,785.16,2,392.58
+VG-21790,West,Silver,Regular,Other,441.8,3,147.26666666666668
+VG-21805,South,Bronze,Occasional,Hibernating,10.96,1,10.96
+VM-21685,East,Platinum,Frequent,Champions,1738.99,5,347.798
+VM-21835,East,Bronze,Occasional,Other,143.49,2,71.745
+VP-21730,Central,Bronze,Occasional,Hibernating,19.0,1,19.0
+VP-21760,West,Gold,Regular,At Risk,734.48,3,244.82666666666668
+VS-21820,Central,Silver,Occasional,At Risk,274.39,2,137.195
+VT-21700,East,Platinum,Occasional,At Risk,1736.6,2,868.3
+VW-21775,East,Platinum,Frequent,Champions,3755.73,6,625.955
+WB-21850,West,Platinum,Frequent,Champions,4589.94,7,655.7057142857142
+XP-21865,West,Gold,Frequent,Loyal Customers,878.48,6,146.41333333333333
+YC-21895,West,Platinum,Regular,At Risk Champions,1587.18,3,529.0600000000001
+YS-21880,South,Gold,Frequent,Potential Loyalists,967.19,4,241.7975
+ZC-21910,South,Platinum,Frequent,Champions,3161.21,5,632.242
+ZD-21925,South,Gold,Frequent,Potential Loyalists,1249.18,4,312.295
